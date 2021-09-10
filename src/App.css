@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  margin: 0;
+  /* overflow-x: hidden; */
+}
+.app__page {
+  display: flex;
+}
